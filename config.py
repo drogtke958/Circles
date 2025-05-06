@@ -1,0 +1,22 @@
+# Pygame Configuration Module
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+LIGHT_BLUE = (135, 206, 235)
+GREEN = (34, 139, 34)
+BROWN = (139, 69, 19)
+DARK_BLUE = (0, 0, 128)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+PURPLE = (128, 0, 128)
+ORANGE = (  255, 165, 0)
+
+TITLE = "Simple Button"
+
+WINDOW_WIDTH = 800
+WINDOW_HEIGHT = 600
+
+SQUARE_WIDTH = 50
+SQUARE_HEIGHT = 50
+
+FPS = 60
